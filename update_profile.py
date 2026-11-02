@@ -75,6 +75,12 @@ def age(b, t):
     return years, months, days
 
 
+def repo_scope():
+    # Without a PAT a token only sees public repos anyway; stating it explicitly keeps
+    # local runs and CI showing the same numbers instead of flip-flopping every night.
+    return "" if os.environ.get("ACCESS_TOKEN") else ", privacy: PUBLIC"
+
+
 def fetch_stats():
     yr_aliases = "\n".join(
         f'y{y}: contributionsCollection(from: "{y}-01-01T00:00:00Z", to: "{y + 1}-01-01T00:00:00Z")'
@@ -91,7 +97,7 @@ def fetch_stats():
       user(login: "{USER}") {{
         id
         followers {{ totalCount }}
-        repositories(first: 100, ownerAffiliations: OWNER) {{
+        repositories(first: 100, ownerAffiliations: OWNER{repo_scope()}) {{
           totalCount
           nodes {{ name stargazerCount isFork }}
         }}

@@ -246,7 +246,7 @@ def render(mode, stats):
     art_lines = ART.strip("\n").split("\n")
     art_top = 40 + max((500 - 40 - len(art_lines) * 15) // 2, 0)
     for i, line in enumerate(art_lines):
-        out.append(f'<text x="25" y="{art_top + i * 15}" fill="{p["art"]}" xml:space="preserve">{html.escape(line)}</text>')
+        out.append(f'<text x="10" y="{art_top + i * 15}" fill="{p["art"]}" xml:space="preserve">{html.escape(line)}</text>')
     for i, segs in enumerate(info_lines(stats)):
         if not segs:
             continue

@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="500" viewBox="0 0 840 500" font-family="Consolas, Menlo, monospace" font-size="13px">
 <rect x="0.5" y="0.5" width="839" height="499" rx="10" fill="#ffffff" stroke="#d0d7de"/>
-<text x="25" y="97" fill="#57606a" xml:space="preserve">                -++*++++=-</text>
-<text x="25" y="112" fill="#57606a" xml:space="preserve">               -+******++++=</text>
-<text x="25" y="127" fill="#57606a" xml:space="preserve">             -++++++++++-=+++.</text>
-<text x="25" y="142" fill="#57606a" xml:space="preserve">             =+++=-==---:---=:</text>
-<text x="25" y="157" fill="#57606a" xml:space="preserve">              *=-----::---::::</text>
-<text x="25" y="172" fill="#57606a" xml:space="preserve">              -=---------:::.:.</text>
-<text x="25" y="187" fill="#57606a" xml:space="preserve">              .--:::-:.::::..:</text>
-<text x="25" y="202" fill="#57606a" xml:space="preserve">               ::::::-:::::...</text>
-<text x="25" y="217" fill="#57606a" xml:space="preserve">                :::::---::::.</text>
-<text x="25" y="232" fill="#57606a" xml:space="preserve">                  :--::::.::.</text>
-<text x="25" y="247" fill="#57606a" xml:space="preserve">                   :-----:::..</text>
-<text x="25" y="262" fill="#57606a" xml:space="preserve">                  ::-----:::..==-:</text>
-<text x="25" y="277" fill="#57606a" xml:space="preserve">              -=+*-::::::::..:*****+==-:</text>
-<text x="25" y="292" fill="#57606a" xml:space="preserve">          :=+*##***+=-::::::-***********+=</text>
-<text x="25" y="307" fill="#57606a" xml:space="preserve">        =+*********###*++++#%*#****##*****=</text>
-<text x="25" y="322" fill="#57606a" xml:space="preserve">      -******#*##***########*##*########***=</text>
-<text x="25" y="337" fill="#57606a" xml:space="preserve">     :****####*##****##***###%*#*########***-</text>
-<text x="25" y="352" fill="#57606a" xml:space="preserve">     =***########*****##*#####*#*########***=</text>
-<text x="25" y="367" fill="#57606a" xml:space="preserve">     ***#########******#####%*######@%%%#***+</text>
-<text x="25" y="382" fill="#57606a" xml:space="preserve">    =****#####*##*******###@#*#####@*-=+#***+</text>
-<text x="25" y="397" fill="#57606a" xml:space="preserve">    +***#***######********%%#####*%+:-:=#*##*</text>
-<text x="25" y="412" fill="#57606a" xml:space="preserve">    +********######******#%#######*::::-#+=--</text>
-<text x="25" y="427" fill="#57606a" xml:space="preserve">   -*********#%%#####****########@-::::=-:..</text>
+<text x="10" y="97" fill="#57606a" xml:space="preserve">                -++*++++=-</text>
+<text x="10" y="112" fill="#57606a" xml:space="preserve">               -+******++++=</text>
+<text x="10" y="127" fill="#57606a" xml:space="preserve">             -++++++++++-=+++.</text>
+<text x="10" y="142" fill="#57606a" xml:space="preserve">             =+++=-==---:---=:</text>
+<text x="10" y="157" fill="#57606a" xml:space="preserve">              *=-----::---::::</text>
+<text x="10" y="172" fill="#57606a" xml:space="preserve">              -=---------:::.:.</text>
+<text x="10" y="187" fill="#57606a" xml:space="preserve">              .--:::-:.::::..:</text>
+<text x="10" y="202" fill="#57606a" xml:space="preserve">               ::::::-:::::...</text>
+<text x="10" y="217" fill="#57606a" xml:space="preserve">                :::::---::::.</text>
+<text x="10" y="232" fill="#57606a" xml:space="preserve">                  :--::::.::.</text>
+<text x="10" y="247" fill="#57606a" xml:space="preserve">                   :-----:::..</text>
+<text x="10" y="262" fill="#57606a" xml:space="preserve">                  ::-----:::..==-:</text>
+<text x="10" y="277" fill="#57606a" xml:space="preserve">              -=+*-::::::::..:*****+==-:</text>
+<text x="10" y="292" fill="#57606a" xml:space="preserve">          :=+*##***+=-::::::-***********+=</text>
+<text x="10" y="307" fill="#57606a" xml:space="preserve">        =+*********###*++++#%*#****##*****=</text>
+<text x="10" y="322" fill="#57606a" xml:space="preserve">      -******#*##***########*##*########***=</text>
+<text x="10" y="337" fill="#57606a" xml:space="preserve">     :****####*##****##***###%*#*########***-</text>
+<text x="10" y="352" fill="#57606a" xml:space="preserve">     =***########*****##*#####*#*########***=</text>
+<text x="10" y="367" fill="#57606a" xml:space="preserve">     ***#########******#####%*######@%%%#***+</text>
+<text x="10" y="382" fill="#57606a" xml:space="preserve">    =****#####*##*******###@#*#####@*-=+#***+</text>
+<text x="10" y="397" fill="#57606a" xml:space="preserve">    +***#***######********%%#####*%+:-:=#*##*</text>
+<text x="10" y="412" fill="#57606a" xml:space="preserve">    +********######******#%#######*::::-#+=--</text>
+<text x="10" y="427" fill="#57606a" xml:space="preserve">   -*********#%%#####****########@-::::=-:..</text>
 <text x="390" y="45" xml:space="preserve"><tspan fill="#0969da">realchendahuang@github </tspan><tspan fill="#afb8c1">─────────────────────────────────</tspan></text>
 <text x="390" y="87" xml:space="preserve"><tspan fill="#953800">OS: </tspan><tspan fill="#afb8c1">.............................. </tspan><tspan fill="#24292f">macOS (Apple Silicon)</tspan></text>
 <text x="390" y="108" xml:space="preserve"><tspan fill="#953800">Uptime: </tspan><tspan fill="#afb8c1">..................... </tspan><tspan fill="#24292f">2 years, 6 months, 23 days</tspan></text>
@@ -38,6 +38,6 @@
 <text x="390" y="360" xml:space="preserve"><tspan fill="#953800">X: </tspan><tspan fill="#afb8c1">.................................... </tspan><tspan fill="#24292f">@realchendahuang</tspan></text>
 <text x="390" y="402" xml:space="preserve"><tspan fill="#0969da">─ GitHub Stats </tspan><tspan fill="#afb8c1">─────────────────────────────────────────</tspan></text>
 <text x="390" y="423" xml:space="preserve"><tspan fill="#953800">Repos: </tspan><tspan fill="#afb8c1">... </tspan><tspan fill="#24292f">63 {Contributed: 5}</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Stars: </tspan><tspan fill="#afb8c1">.......... </tspan><tspan fill="#24292f">1,216</tspan></text>
-<text x="390" y="444" xml:space="preserve"><tspan fill="#953800">Commits: </tspan><tspan fill="#afb8c1">.............. </tspan><tspan fill="#24292f">16,801</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Followers: </tspan><tspan fill="#afb8c1">......... </tspan><tspan fill="#24292f">65</tspan></text>
-<text x="390" y="465" xml:space="preserve"><tspan fill="#953800">Lines of Code: </tspan><tspan fill="#24292f">987,088</tspan><tspan fill="#afb8c1"> ( </tspan><tspan fill="#1a7f37">1,517,576++</tspan><tspan fill="#afb8c1">, </tspan><tspan fill="#cf222e">530,488--</tspan><tspan fill="#afb8c1"> )</tspan></text>
+<text x="390" y="444" xml:space="preserve"><tspan fill="#953800">Commits: </tspan><tspan fill="#afb8c1">.............. </tspan><tspan fill="#24292f">16,802</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Followers: </tspan><tspan fill="#afb8c1">......... </tspan><tspan fill="#24292f">65</tspan></text>
+<text x="390" y="465" xml:space="preserve"><tspan fill="#953800">Lines of Code: </tspan><tspan fill="#24292f">987,089</tspan><tspan fill="#afb8c1"> ( </tspan><tspan fill="#1a7f37">1,517,657++</tspan><tspan fill="#afb8c1">, </tspan><tspan fill="#cf222e">530,568--</tspan><tspan fill="#afb8c1"> )</tspan></text>
 </svg>
